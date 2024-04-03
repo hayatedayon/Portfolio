@@ -1,0 +1,5 @@
+# Contact
+
+## Mail
+
+`contactアットマークhayatedayon.com`
