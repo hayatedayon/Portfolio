@@ -14,11 +14,6 @@
 - Android Platform
 - Android App
 
-## 好き
-
-- Python
-- Vim
-
 ## 資格
 
 - 画像処理エンジニア検定 ベーシック
