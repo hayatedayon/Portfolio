@@ -19,7 +19,7 @@ hero:
 
 features:
   - title: 仕事
-    details: Android端末・アプリ開発→印刷会社の社内SE
+    details: Android端末・アプリ開発→印刷会社の社内SE→自動車会社のエンジニア
   - title: 趣味
     details: オーディオ、カメラ、アニメ・漫画鑑賞
   - title: 最近のマイブーム

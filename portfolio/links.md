@@ -10,9 +10,9 @@ https://wordpress.hayatedayon.com
 
 https://github.com/hayatedayon
 
-## Twitter
+## X
 
-https://twitter.com/hayatedayon
+https://x.com/hayatedayon
 
 ## Bluesky
 
@@ -28,4 +28,4 @@ https://www.instagram.com/hayatedayon/
 
 ## YouTube
 
-https://www.youtube.com/channel/UCPFxv2BkMcA_BIubJKvftwA
+https://www.youtube.com/@hayatedayon
