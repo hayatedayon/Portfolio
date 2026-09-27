@@ -14,6 +14,9 @@ hero:
       text: Skills
       link: /skills
     - theme: alt
+      text: Software
+      link: /software
+    - theme: alt
       text: Links
       link: /links
 

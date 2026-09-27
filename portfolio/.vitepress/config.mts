@@ -10,6 +10,7 @@ export default defineConfig({
       { text: 'Home', link: '/' },
       { text: 'Profile', link: '/profile' },
       { text: 'Skills', link: '/skills' },
+      { text: 'Software', link: '/software' },
       { text: 'Links', link: '/links' },
       { text: 'Contact', link: '/contact' }
     ],
@@ -20,6 +21,7 @@ export default defineConfig({
         items: [
           { text: 'Profile', link: '/profile' },
           { text: 'Skills', link: '/skills' },
+          { text: 'Software', link: '/software' },
           { text: 'Links', link: '/links' }
         ]
       },
