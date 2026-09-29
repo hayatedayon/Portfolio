@@ -7,14 +7,14 @@
 <a class="software" href="https://github.com/hayatedayon/hayate-reader">
   <img class="light-only" src="/software/hayate-reader.svg" alt="Hayate Reader">
   <img class="dark-only" src="/software/hayate-reader-dark.svg" alt="Hayate Reader">
-  <span class="summary">縦書き対応の EPUB・コミック・青空文庫リーダー</span>
+  <span class="summary">日本語の縦書きを、<wbr>きれいに、<wbr>軽快に読める <wbr>EPUB・コミック・<wbr>青空文庫リーダー</span>
   <span class="meta">Rust・Tauri ／ Windows・macOS・Linux</span>
 </a>
 
 <a class="software" href="https://github.com/hayatedayon/hayate-library">
   <img class="light-only" src="/software/hayate-library.svg" alt="Hayate Library">
   <img class="dark-only" src="/software/hayate-library-dark.svg" alt="Hayate Library">
-  <span class="summary">Calibre ライブラリや本のフォルダを、速く探せる本棚に</span>
+  <span class="summary">電子書籍のライブラリを、<wbr>速く探せる本棚に</span>
   <span class="meta">Rust・Slint ／ Windows・macOS・Linux</span>
 </a>
 
@@ -55,6 +55,9 @@
 .software .summary {
   font-size: 15px;
   line-height: 1.6;
+  /* 文の区切り (<wbr>) で折り返す。収まらないときだけ、どこででも折り返す */
+  word-break: keep-all;
+  overflow-wrap: anywhere;
 }
 
 .software .meta {
