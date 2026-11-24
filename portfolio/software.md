@@ -18,7 +18,7 @@
   <span class="meta">Rust・Slint ／ Windows・macOS・Linux</span>
 </a>
 
-<a class="software" href="https://github.com/hayatedayon/dokusho-ud-fonts">
+<a class="software" href="https://hayatedayon.github.io/dokusho-ud-fonts/">
   <img class="light-only" src="/software/dokusho-ud.svg" alt="読書 UD">
   <img class="dark-only" src="/software/dokusho-ud-dark.svg" alt="読書 UD">
   <span class="summary">縦書きでも横書きでも、<wbr>本と同じ組み方で読める <wbr>明朝体・ゴシック体のフォント</span>
